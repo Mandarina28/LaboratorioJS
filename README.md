@@ -1,7 +1,7 @@
-#EjercicioJS
+# EjercicioJS
 
-##Enunciado
-###Grupos musicales
+## Enunciado
+### Grupos musicales
 
 Queremos mostrar información acerca de grupos musicales.
 
